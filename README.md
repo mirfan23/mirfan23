@@ -1,38 +1,45 @@
-# Hi there 👋 I'm Muhammad Irfan Fadhila
+# <h1 align="center">Hi 👋, I'm Muhammad Irfan Fadhila</h1>
 
-## 🚀 Mobile Developer (Flutter) at Kisel Group
+<h3 align="center">Mobile Developer (Flutter) at Kisel Group 📱</h3>
 
-I'm a passionate **Mobile Developer** specializing in **Flutter**, with experience in building scalable, high-performance, and user-friendly mobile applications for Android and iOS.
-
-Currently, I work as a **Mobile Developer at Kisel Group**, where I develop and maintain production-ready applications, implement new features, integrate REST APIs, optimize application performance, and continuously improve code quality following modern software development practices.
-
-I graduated with a Bachelor's degree in **Informatics Engineering** from the **University of Lampung** with a **3.82 GPA**. Throughout my journey, I've always enjoyed learning new technologies and solving real-world problems through software development.
-
-Before joining Kisel Group, I completed:
-
-* 📱 **6-month Flutter Developer Internship**
-* ☕ **6-month Kotlin Bootcamp**
-* 🚀 **2-month Android Developer Training at Phincon Bootcamp**
-
-These experiences helped strengthen my understanding of mobile development, software architecture, and clean coding principles.
+<p align="center">
+Passionate about building scalable, high-performance, and user-friendly mobile applications.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
 
-### Mobile
+* 📱 Currently working as **Mobile Developer (Flutter)** at **Kisel Group**
+* 🎓 Bachelor's Degree in **Informatics Engineering** - University of Lampung (**GPA 3.82**)
+* 💙 Passionate about Flutter and Android Development
+* 🚀 Experienced in developing production-ready mobile applications
+* 🌱 Always learning new technologies and best practices
+* ☕ I enjoy solving real-world problems through code
 
-* Flutter
-* Dart
-* Kotlin
-* Android SDK
+---
+
+## 🚀 Tech Stack
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" />
+</p>
 
 ### Backend & Database
 
-* Firebase
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+</p>
+
+<p>
+
 * REST API
 * SQLite
-* Drift
+* Drift Database
+
+</p>
 
 ### State Management
 
@@ -41,13 +48,32 @@ These experiences helped strengthen my understanding of mobile development, soft
 
 ### Tools
 
-* Git
-* GitHub
-* Android Studio
-* VS Code
-* Xcode
-* Postman
-* Figma
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,xcode" />
+</p>
+
+---
+
+## 💼 Experience
+
+### 📱 Mobile Developer
+
+**Kisel Group**
+
+* Develop and maintain Flutter applications
+* Build responsive and scalable mobile applications
+* Integrate REST APIs
+* Implement Clean Architecture
+* Optimize application performance
+* Fix bugs and improve application quality
+
+---
+
+## 📚 Previous Experience
+
+* 📱 Flutter Developer Internship (6 Months)
+* ☕ Kotlin Bootcamp (6 Months)
+* 🚀 Android Developer Training at Phincon Bootcamp (2 Months)
 
 ---
 
@@ -55,25 +81,71 @@ These experiences helped strengthen my understanding of mobile development, soft
 
 * Native Android Development
 * Clean Architecture
-* CI/CD for Mobile Applications
+* CI/CD
 * Software Design Patterns
+* Unit Testing
 * Performance Optimization
-* Unit Testing & Integration Testing
 
 ---
 
-## 💡 About Me
+## 🚀 Featured Projects
 
-* 📱 Passionate about Mobile Development
-* 🚀 Always learning new technologies
-* 🤝 Love collaborating with teams
-* 🧩 Enjoy solving challenging problems
-* ☕ Coffee + Code = Productive Day
+### 💰 Auto Finance
+
+A Flutter application that automatically records bank transactions from notifications and helps users manage their finances.
+
+**Tech Stack**
+
+* Flutter
+* Riverpod
+* Drift Database
+* Notification Listener
+* Local Database
 
 ---
 
-## 📫 Let's Connect!
+### 💬 Chat Application
 
-I'm always open to discussing mobile development, Flutter, Android, or exciting collaboration opportunities.
+Real-time chat application built with Flutter.
 
-Thanks for visiting my profile! 😄
+**Tech Stack**
+
+* Flutter
+* Firebase
+* Provider
+
+---
+
+### 🍽️ Cafeteria Application
+
+Food ordering application with payment integration and order management.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mirfan23&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirfan23&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirfan23&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> *"Learning never stops. Every project is an opportunity to become a better developer."*
+
+---
+
+<p align="center">
+Thanks for visiting my profile! ⭐
+</p>
